@@ -1,5 +1,5 @@
 # Ball-in-Tube Simulation and Identifiers: Python
-Python control algorithms, simulations, and system identifiers for the ball-in-tube experiment, developed by [_Antony Pulikapparambil_](https://github.com/antonypuli) and [_Oguzhan Dogru_](https://github.com/oguzhan-dogru).
+Python control algorithms, simulations, and system identifiers for the ball-in-tube experiment, developed by [_Antony Pulikapparambil_](https://github.com/antonypuli) and [_Oguzhan Dogru_](https://github.com/oguzhan-dogru). Contact <dogru@ualberta.ca> for the details/datasets.
 
 Files:
 * **main.py** : Runs PID/MPC/Kalman-filter control loops for the ball-in-tube experiment. Requires connection to lab experiment to be run.
@@ -71,3 +71,8 @@ pre-set conversion values, instead.
 |:------------------------------------:|:----------------:|:--------------------------------------:|
 |               ~13 000                |        0         | Bottom of tube (furthest from sensor)  |
 |                 ~400                 |       100        |    Top of tube (closest to sensor)     |
+
+## Related Publications
+[1] Velocity PID: Dogru, O., Velswamy, K., Ibrahim, F., Wu, Y., Sundaramoorthy, A. S., Huang, B., ... & Bell, N. (2022). Reinforcement learning approach to autonomous PID tuning. Computers & Chemical Engineering, 161, 107760.
+[2] MPCs and Kalman filter: Dogru, O., Chiplunkar, R., & Huang, B. (2022). Skew Filtering for Online State Estimation and Control.
+[3] Kalman filter: Dogru, O., Chiplunkar, R., & Huang, B. (2021). Reinforcement learning with constrained uncertain reward function through particle filtering. IEEE Transactions on Industrial Electronics, 69(7), 7491-7499.
