@@ -1,5 +1,5 @@
 # Ball-in-Tube Simulation and Identifiers: Python
-Python control algorithms, simulations, and system identifiers for the ball-in-tube experiment, developed by [_Antony Pulikapparambil_](https://github.com/antonypuli) and [_Oguzhan Dogru_](https://github.com/oguzhan-dogru). Contact <dogru@ualberta.ca> for the details/datasets.
+Python control algorithms, simulations, and system identifiers for the ball-in-tube experiment, developed by [_Antony Pulikapparambil_](https://github.com/antonypuli) and [_Oguzhan Dogru_](https://github.com/oguzhan-dogru). Contact [dogru@ualberta.ca](mailto:dogru@ualberta.ca?subject=[GitHub]%20Balls%20in%20Tubes) for the details/datasets.
 
 Files:
 * **main.py** : Runs PID/MPC/Kalman-filter control loops for the ball-in-tube experiment. Requires connection to lab experiment to be run.
