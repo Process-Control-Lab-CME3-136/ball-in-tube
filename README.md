@@ -72,7 +72,7 @@ pre-set conversion values, instead.
 |               ~13 000                |        0         | Bottom of tube (furthest from sensor)  |
 |                 ~400                 |       100        |    Top of tube (closest to sensor)     |
 
-## Related Publications
-[1] Velocity PID: Dogru, O., Velswamy, K., Ibrahim, F., Wu, Y., Sundaramoorthy, A. S., Huang, B., ... & Bell, N. (2022). Reinforcement learning approach to autonomous PID tuning. Computers & Chemical Engineering, 161, 107760.<br/>
-[2] MPCs and Kalman filter: Dogru, O., Chiplunkar, R., & Huang, B. (2022). Skew Filtering for Online State Estimation and Control.<br/>
-[3] Kalman filter: Dogru, O., Chiplunkar, R., & Huang, B. (2021). Reinforcement learning with constrained uncertain reward function through particle filtering. IEEE Transactions on Industrial Electronics, 69(7), 7491-7499.
+## Related Applications/Publications
+[1] **Velocity PID**: Dogru, O., Velswamy, K., Ibrahim, F., Wu, Y., Sundaramoorthy, A. S., Huang, B., ... & Bell, N. (2022). Reinforcement learning approach to autonomous PID tuning. Computers & Chemical Engineering, 161, 107760.<br/>
+[2] **MPCs and Kalman filter**: Dogru, O., Chiplunkar, R., & Huang, B. (2022). Skew Filtering for Online State Estimation and Control.<br/>
+[3] **Kalman filter**: Dogru, O., Chiplunkar, R., & Huang, B. (2021). Reinforcement learning with constrained uncertain reward function through particle filtering. IEEE Transactions on Industrial Electronics, 69(7), 7491-7499.
